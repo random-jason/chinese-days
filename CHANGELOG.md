@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [1.5.9](https://github.com/vsme/chinese-days) (2026-06-02)
+
+- fix: 修复 #40 中1989年4月16/17日的农历日错误
+
 ## [1.5.5](https://github.com/vsme/chinese-days) (2026-03-05)
 
 - fix: 时区问题导致用户农历误差。
